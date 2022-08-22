@@ -19,6 +19,9 @@ nav.navbar-transparente {
 	padding: 15px 0px;
 	background: rgba(0,0,0,0.6);
 }
+.iconeradio{
+    padding:10px;
+}
 
 #letra_Menu a {
 	color: white;
